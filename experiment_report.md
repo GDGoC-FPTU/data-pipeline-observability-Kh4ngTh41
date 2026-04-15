@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-1234
-**Name:** Kh4ngTh41
+**Student ID:** 2A202600289
+**Name:** Thái Tuấn Khang
 **Date:** 2026-04-15
 
 ---
@@ -17,7 +17,7 @@ Chạy `agent_simulation.py` với 2 bộ dữ liệu và ghi lại kết quả:
 
 ---
 
-## 2. Phân tích & nhận xét
+## 2. Phan tich & nhan xet
 
 ### Tại sao Agent trả lời sai khi dùng Garbage Data?
 
